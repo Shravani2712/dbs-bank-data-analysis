@@ -42,18 +42,20 @@ dbs-bank-analysis/
 ## 🖥️ Visualizations
 | Tool | File | Description |
 |------|------|--------------|
-| Tableau | `dbs_tableau_dashboard.twbx` | Interactive customer and transaction insights |
-| Power BI | `dbs_powerbi_report.pbix` | KPI and financial performance dashboards |
-| Excel | `dbs_transactions.xlsx` | Cleaned dataset and pivot analyses |
-| SQL | `dbs_queries.sql` | Queries for transaction insights |
+| Tableau | `Tableau Dashboard on Debit & Credit Dataset.twbx`,`Tableau Dashboard On Loan Dataset.twbx`| Interactive customer and transaction insights |
+| Power BI | `Power BI Dashboard on Loan Dataset.pbix`, `Power BI Dashboard on Debit & Credit Dataset.pbix` | KPI and financial performance dashboards |
+| Excel | `Excel Dashboard on Loan Dataset.xlsx`,`Excel Dashboard on Debit & Credit Dataset.xlsx` | Cleaned dataset and pivot analyses |
+| SQL | `SQL Queries on Loan Dataset.sql`, `SQL Query on Credit & Debit Dataset.sql`| Queries for transaction insights |
 
 ---
 
 ## 📸 Sample Dashboard
-![DBS Dashboard](dashboards/screenshots/powerbi_dashboard.png)
+![DBS Bank Loan Dashboard](Loan Dashboard In Power BI.png)
+
+![DBS Bank Debit & Credit Dashboard](Debit & Credit Dashboard In Power Bi.png)
 
 ---
 
 ## 📬 Author
-**Your Name**  
-_Data Analyst | Tableau | Power BI | SQL | Excel_
+Shravani Sachin Dhuri  
+Data Analyst | Tableau | Power BI | SQL | Excel_
