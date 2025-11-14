@@ -42,17 +42,17 @@ dbs-bank-analysis/
 ## 🖥️ Visualizations
 | Tool | File | Description |
 |------|------|--------------|
-| Tableau | `Tableau Dashboard on Debit & Credit Dataset.twbx`,`Tableau Dashboard On Loan Dataset.twbx`| Interactive customer and transaction insights |
-| Power BI | `Power BI Dashboard on Loan Dataset.pbix`, `Power BI Dashboard on Debit & Credit Dataset.pbix` | KPI and financial performance dashboards |
-| Excel | `Excel Dashboard on Loan Dataset.xlsx`,`Excel Dashboard on Debit & Credit Dataset.xlsx` | Cleaned dataset and pivot analyses |
-| SQL | `SQL Queries on Loan Dataset.sql`, `SQL Query on Credit & Debit Dataset.sql`| Queries for transaction insights |
+| Tableau | `https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Tableau%20Dashboard%20on%20Debit%20%26%20Credit%20Dataset.twbx`,`https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Tableau%20Dashboard%20On%20Loan%20Dataset.twbx`| Interactive customer and transaction insights |
+| Power BI | `https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Power%20BI%20Dashboard%20on%20Debit%20%26%20Credit%20Dataset.pbix`, `https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Power%20BI%20Dashboard%20on%20Loan%20Dataset.pbix` | KPI and financial performance dashboards |
+| Excel | `https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Excel%20Dashboard%20on%20Debit%20%26%20Credit%20Dataset.xlsx`,`https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Excel%20Dashboard%20on%20Loan%20Dataset.xlsx` | Cleaned dataset and pivot analyses |
+| SQL | `https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/SQL%20Query%20on%20Credit%20%26%20Debit%20Dataset.sql`, `https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/SQL%20Queries%20on%20Loan%20Dataset.sql`| Queries for transaction insights |
 
 ---
 
 ## 📸 Sample Dashboard
-![DBS Bank Loan Dashboard](Loan Dashboard In Power BI.png)
+![DBS Bank Loan Dashboard](https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Loan%20Dashboard%20In%20Power%20BI.png)
 
-![DBS Bank Debit & Credit Dashboard](Debit & Credit Dashboard In Power Bi.png)
+![DBS Bank Debit & Credit Dashboard](https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Debit%20%26%20Credit%20Dashboard%20In%20Power%20Bi.png)
 
 ---
 
