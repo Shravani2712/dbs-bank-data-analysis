@@ -50,9 +50,12 @@ dbs-bank-analysis/
 ---
 
 ## 📸 Sample Dashboard
-![DBS Bank Loan Dashboard](https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Loan%20Dashboard%20In%20Power%20BI.png)
-
-![DBS Bank Debit & Credit Dashboard](https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Debit%20%26%20Credit%20Dashboard%20In%20Power%20Bi.png)
+![DBS Bank Loan Dashboard in Excel](https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Loan%20Dashboard%20In%20Excel.png)
+![DBS Bank Loan Dashboard in Power BI](https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Loan%20Dashboard%20In%20Power%20BI.png)
+![DBS Bank Loan Dashboard in Tableau](https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Loan%20Dashboard%20In%20Tableau.png)
+![DBS Bank Debit & Credit Dashboard in Excel](https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Debit%20%26%20Credit%20Dashboard%20In%20Excel.png)
+![DBS Bank Debit & Credit Dashboard in Power BI](https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Debit%20%26%20Credit%20Dashboard%20In%20Power%20Bi.png)
+![DBS Bank Debit & Credit Dashboard in Tableau](https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Debit%20%26%20Credit%20Dashboard%20In%20Tableau.png)
 
 ---
 
