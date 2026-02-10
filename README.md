@@ -1,64 +1,56 @@
-# 🏦 DBS Bank Data Analysis
+🏦 DBS Bank Data Analysis
 
-This project presents a data-driven analysis of **DBS Bank’s customer and transaction data** using **SQL, Excel, Tableau, and Power BI** to identify key business insights and financial trends.
+This project demonstrates an end-to-end data engineering and analytics pipeline for DBS Bank’s customer and transaction data. By leveraging SQL, Python (Streamlit), and BI tools (Power BI, Tableau), I transformed raw financial records into actionable business insights to support data-driven decision-making.
 
----
+🌐 Live Streamlit Demo: 
 
-## 📊 Project Overview
-The aim of this analysis is to:
-- Examine customer spending and transaction behavior  
-- Identify top-performing regions and products  
-- Track account growth and customer engagement metrics  
-- Visualize key banking KPIs through dashboards
 
----
 
-## 🧠 Tools & Technologies
-- **SQL** – Data extraction, joins, and aggregations  
-- **Excel** – Data cleaning and preprocessing  
-- **Tableau** – Interactive dashboards  
-- **Power BI** – KPI visualization and trend tracking  
+📊 Project Overview
 
----
+This analysis provides a 360-degree view of banking operations, focusing on:
 
-## 📂 Project Structure
+Loan Portfolio: Monitoring disbursements, repayment performance, and regional distribution.
+
+Transactional Health: Analyzing Credit-to-Debit ratios, growth trends, and risk assessment.
+
+Customer Segmentation: Identifying high-value segments based on demographic, regional, and behavioral insights.
+
+🧰 Tools & Technologies
+Tool	Purpose
+Python & Streamlit	Build interactive, web-based dashboards for real-time insights.
+Plotly & Pandas	Data manipulation and advanced interactive visualizations (Sunburst, Waterfall, Treemaps).
+SQL	Complex data extraction, joins, and financial aggregations.
+Excel	Initial data cleaning and exploratory pivot analysis.
+Power BI & Tableau	High-fidelity KPI tracking, executive reporting, and geospatial analytics.
+📂 Project Structure
 dbs-bank-analysis/
 │
-├── data/ - Contains raw and processed data files
-├── sql_queries/ - SQL scripts used for data insights
-├── dashboards/ - Tableau & Power BI dashboards + screenshots
-└── README.md - Project documentation
+├── streamlit_app.py       # Main Python script for the live dashboard
+├── requirements.txt       # Dependencies for Streamlit deployment
+├── data/                  # Raw and processed datasets (CSV/Excel)
+├── sql_queries/           # SQL scripts for backend insights
+├── static_dashboards/     # Screenshots and files for Power BI, Tableau, and Excel
+└── README.md              # Project documentation
 
----
+📈 Key Visualizations & Analytics
+Tool	Format	Key Features
+Streamlit	Live App	Dynamic filtering, Waterfall charts, Risk Funnels, and Real-time KPI updates.
+Power BI (.pbix)	Executive Dashboards	Trend analysis, KPI monitoring, and financial reporting.
+Tableau (.twbx)	Geospatial & Customer Analytics	Geographical distribution, customer segmentation, and deep-dives.
+SQL (.sql)	Backend Queries	Optimized queries for transaction frequency, credit scoring, and aggregations.
+📸 Dashboard Gallery
+1. Interactive Streamlit App
 
-## 📈 Key Insights
-- Monthly and yearly transaction volume trends  
-- High-value customer segments and regional distribution  
-- Revenue growth comparison across quarters  
-- Key performance indicators visualized using Tableau & Power BI  
+Features dynamic sidebars for State, Bank, and Risk filters that update all charts instantly.
 
----
+Provides a real-time, interactive experience for banking insights.
 
-## 🖥️ Visualizations
-| Tool | File | Description |
-|------|------|--------------|
-| Tableau | `https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Tableau%20Dashboard%20on%20Debit%20%26%20Credit%20Dataset.twbx`,`https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Tableau%20Dashboard%20On%20Loan%20Dataset.twbx`| Interactive customer and transaction insights |
-| Power BI | `https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Power%20BI%20Dashboard%20on%20Debit%20%26%20Credit%20Dataset.pbix`, `https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Power%20BI%20Dashboard%20on%20Loan%20Dataset.pbix` | KPI and financial performance dashboards |
-| Excel | `https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Excel%20Dashboard%20on%20Debit%20%26%20Credit%20Dataset.xlsx`,`https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Excel%20Dashboard%20on%20Loan%20Dataset.xlsx` | Cleaned dataset and pivot analyses |
-| SQL | `https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/SQL%20Query%20on%20Credit%20%26%20Debit%20Dataset.sql`, `https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/SQL%20Queries%20on%20Loan%20Dataset.sql`| Queries for transaction insights |
+2. Power BI & Tableau Visuals
 
----
+High-resolution executive dashboards with trend monitoring, KPI cards, and geographic analysis.
 
-## 📸 Sample Dashboard
-![DBS Bank Loan Dashboard in Excel](https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Loan%20Dashboard%20In%20Excel.png)
-![DBS Bank Loan Dashboard in Power BI](https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Loan%20Dashboard%20In%20Power%20BI.png)
-![DBS Bank Loan Dashboard in Tableau](https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Loan%20Dashboard%20In%20Tableau.png)
-![DBS Bank Debit & Credit Dashboard in Excel](https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Debit%20%26%20Credit%20Dashboard%20In%20Excel.png)
-![DBS Bank Debit & Credit Dashboard in Power BI](https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Debit%20%26%20Credit%20Dashboard%20In%20Power%20Bi.png)
-![DBS Bank Debit & Credit Dashboard in Tableau](https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Debit%20%26%20Credit%20Dashboard%20In%20Tableau.png)
+📬 Author
 
----
-
-## 📬 Author
-Shravani Sachin Dhuri  
-Data Analyst | Tableau | Power BI | SQL | Excel_
+Shravani Sachin Dhuri
+Data Analyst | Python | Tableau | Power BI | SQL | Excel
