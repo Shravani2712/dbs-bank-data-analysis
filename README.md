@@ -6,6 +6,7 @@ This project showcases a complete data engineering and analytics pipeline built 
 
 **🌐 Live Interactive Dashboard**
 🔗 Streamlit Live App: https://dbs-bank-data-analysis-cs6t2jbh4ponlb5afk3skw.streamlit.app/
+
 Experience real-time banking analytics with dynamic filters and interactive KPI tracking.
 
 **📊 Project Overview**
@@ -34,13 +35,19 @@ High-value customer identification
 
 **🧰 Tools & Technologies**
 
-Tool	Purpose
-Python & Streamlit	Interactive web-based dashboard development
-Pandas & Plotly	Data cleaning, transformation, and advanced visualizations (Waterfall, Sunburst, Treemap, Risk Funnels)
-SQL	Complex joins, aggregations, transaction frequency analysis, credit scoring logic
-Excel	Initial cleaning and pivot-based exploratory analysis
-Power BI	Executive KPI dashboards and financial trend monitoring
-Tableau	Geospatial banking analytics and customer segmentation
+Tool	                 Purpose
+
+Python & Streamlit	Interactive web-based dashboard development 
+
+Pandas & Plotly	     Data cleaning, transformation, and advanced visualizations (Waterfall, Sunburst, Treemap, Risk Funnels)
+
+SQL	                 Complex joins, aggregations, transaction frequency analysis, credit scoring logic 
+
+Excel	                Initial cleaning and pivot-based exploratory analysis
+
+Power BI	             Executive KPI dashboards and financial trend monitoring
+
+Tableau	               Geospatial banking analytics and customer segmentation
 
 **📂 Project Structure**
 
@@ -71,8 +78,9 @@ Trend & variance analysis
 
 **📸 Power BI Dashboard Screenshot:**
 
-1. Debit & Credit Dashboard in Power BI: https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Debit%20%26%20Credit%20Dashboard%20In%20Power%20Bi.png
-2. Loan Dashboard in Power BI: https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Loan%20Dashboard%20In%20Power%20BI.png
+1. Debit & Credit Dashboard in Power BI: <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/526b7bb3-3f52-4b80-9e40-77e4b7cd2c08" />
+
+2. Loan Dashboard in Power BI: <img width="1919" height="973" alt="image" src="https://github.com/user-attachments/assets/1d52e2c3-a000-4eaa-9ef2-2885c48a7acf" />
 
 **🔹 Tableau (.twbx)**
 
@@ -82,8 +90,9 @@ Regional banking performance deep dives
 
 **📸 Tableau Dashboard Screenshot:**
 
-1. Debit & Credit Dashboard in Tableau: https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Debit%20%26%20Credit%20Dashboard%20In%20Tableau.png
-2. Loan Dashboard in Tableau: https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Loan%20Dashboard%20In%20Tableau.png
+1. Debit & Credit Dashboard in Tableau: <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4df0c692-41ec-4037-80e0-0f921d09ea4c" />
+
+2. Loan Dashboard in Tableau: <img width="1919" height="966" alt="image" src="https://github.com/user-attachments/assets/74330251-f095-425e-bcaf-3c41810f1b9b" />
 
 **🔹 Excel Dashboard**
 
@@ -93,8 +102,9 @@ Exploratory KPI tracking
 
 **📸 Excel Dashboard Screenshot:**
 
-1. Debit & Credit Dashboard in Excel: https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Debit%20%26%20Credit%20Dashboard%20In%20Excel.png
-2. Loan Dashboard in Excel: https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Loan%20Dashboard%20In%20Excel.png
+1. Debit & Credit Dashboard in Excel: <img width="1122" height="606" alt="image" src="https://github.com/user-attachments/assets/49d66c61-52af-4830-9c58-cde9d29af341" />
+
+2. Loan Dashboard in Excel: <img width="1919" height="975" alt="image" src="https://github.com/user-attachments/assets/7709fa6e-9a7a-4266-b45b-ab220110d728" />
 
 **🔹 SQL (.sql)**
 
@@ -125,5 +135,7 @@ Strategic performance monitoring
 **👩‍💻 Author**
 
 Shravani Sachin Dhuri
+
 Data Analyst
+
 Python | SQL | Power BI | Tableau | Excel | Streamlit
