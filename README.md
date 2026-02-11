@@ -1,56 +1,110 @@
-🏦 DBS Bank Data Analysis
+**🏦 DBS Bank Data Analysis**
+End-to-End Data Engineering & Analytics Project
+This project showcases a complete data engineering and analytics pipeline built on DBS Bank’s customer and transaction datasets. Using SQL, Python (Streamlit), and Business Intelligence tools (Power BI & Tableau), raw financial data was transformed into strategic, executive-level insights to support data-driven decision-making.
 
-This project demonstrates an end-to-end data engineering and analytics pipeline for DBS Bank’s customer and transaction data. By leveraging SQL, Python (Streamlit), and BI tools (Power BI, Tableau), I transformed raw financial records into actionable business insights to support data-driven decision-making.
+**🌐 Live Interactive Dashboard**
+🔗 Streamlit Live App: https://dbs-bank-data-analysis-cs6t2jbh4ponlb5afk3skw.streamlit.app/
+Experience real-time banking analytics with dynamic filters and interactive KPI tracking.
 
-🌐 Live Streamlit Demo: 
+**📊 Project Overview**
+This project provides a 360° analytical view of banking operations, focusing on:
 
+**💰 Loan Portfolio Analytics**
+Loan disbursement trends
+Repayment performance tracking
+Regional loan distribution
+Risk category breakdown
 
+**💳 Transactional Health Monitoring**
+Credit-to-Debit ratio analysis
+Monthly transaction growth trends
+Risk exposure assessment
+High-value transaction tracking
 
-📊 Project Overview
+**👥 Customer Segmentation**
+Demographic-based segmentation
+Regional performance analysis
+Behavioral transaction patterns
+High-value customer identification
 
-This analysis provides a 360-degree view of banking operations, focusing on:
-
-Loan Portfolio: Monitoring disbursements, repayment performance, and regional distribution.
-
-Transactional Health: Analyzing Credit-to-Debit ratios, growth trends, and risk assessment.
-
-Customer Segmentation: Identifying high-value segments based on demographic, regional, and behavioral insights.
-
-🧰 Tools & Technologies
+**🧰 Tools & Technologies**
 Tool	Purpose
-Python & Streamlit	Build interactive, web-based dashboards for real-time insights.
-Plotly & Pandas	Data manipulation and advanced interactive visualizations (Sunburst, Waterfall, Treemaps).
-SQL	Complex data extraction, joins, and financial aggregations.
-Excel	Initial data cleaning and exploratory pivot analysis.
-Power BI & Tableau	High-fidelity KPI tracking, executive reporting, and geospatial analytics.
-📂 Project Structure
+Python & Streamlit	Interactive web-based dashboard development
+Pandas & Plotly	Data cleaning, transformation, and advanced visualizations (Waterfall, Sunburst, Treemap, Risk Funnels)
+SQL	Complex joins, aggregations, transaction frequency analysis, credit scoring logic
+Excel	Initial cleaning and pivot-based exploratory analysis
+Power BI	Executive KPI dashboards and financial trend monitoring
+Tableau	Geospatial banking analytics and customer segmentation
+
+**📂 Project Structure**
 dbs-bank-analysis/
 │
-├── streamlit_app.py       # Main Python script for the live dashboard
-├── requirements.txt       # Dependencies for Streamlit deployment
-├── data/                  # Raw and processed datasets (CSV/Excel)
-├── sql_queries/           # SQL scripts for backend insights
-├── static_dashboards/     # Screenshots and files for Power BI, Tableau, and Excel
-└── README.md              # Project documentation
+├── streamlit_app.py        # Main Streamlit dashboard application
+├── requirements.txt        # Deployment dependencies
+├── sql_queries/            # Backend SQL scripts
+└── README.md               # Project documentation
 
-📈 Key Visualizations & Analytics
-Tool	Format	Key Features
-Streamlit	Live App	Dynamic filtering, Waterfall charts, Risk Funnels, and Real-time KPI updates.
-Power BI (.pbix)	Executive Dashboards	Trend analysis, KPI monitoring, and financial reporting.
-Tableau (.twbx)	Geospatial & Customer Analytics	Geographical distribution, customer segmentation, and deep-dives.
-SQL (.sql)	Backend Queries	Optimized queries for transaction frequency, credit scoring, and aggregations.
-📸 Dashboard Gallery
-1. Interactive Streamlit App
+**📈 Key Visualizations & Analytics**
+**🔹 Streamlit (Live Dashboard)**
+Dynamic sidebar filters (State, Bank, Risk Category)
+Real-time KPI updates
+Loan distribution treemaps
+Risk assessment funnels
+Credit vs Debit trend analysis
+Interactive Waterfall & Sunburst charts
 
-Features dynamic sidebars for State, Bank, and Risk filters that update all charts instantly.
+**🔹 Power BI (.pbix)**
+Executive financial dashboards
+Monthly performance tracking
+KPI scorecards
+Trend & variance analysis
 
-Provides a real-time, interactive experience for banking insights.
+**📸 Power BI Dashboard Screenshot:**
+1. Debit & Credit Dashboard in Power BI: https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Debit%20%26%20Credit%20Dashboard%20In%20Power%20Bi.png
+2. Loan Dashboard in Power BI: https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Loan%20Dashboard%20In%20Power%20BI.png
 
-2. Power BI & Tableau Visuals
+**🔹 Tableau (.twbx)**
+Geospatial loan distribution
+Customer demographic segmentation
+Regional banking performance deep dives
 
-High-resolution executive dashboards with trend monitoring, KPI cards, and geographic analysis.
+**📸 Tableau Dashboard Screenshot:**
+1. Debit & Credit Dashboard in Tableau: https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Debit%20%26%20Credit%20Dashboard%20In%20Tableau.png
+2. Loan Dashboard in Tableau: https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Loan%20Dashboard%20In%20Tableau.png
 
-📬 Author
+**🔹 Excel Dashboard**
+Initial data cleaning
+Pivot table analysis
+Exploratory KPI tracking
 
+**📸 Excel Dashboard Screenshot:**
+1. Debit & Credit Dashboard in Excel: https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Debit%20%26%20Credit%20Dashboard%20In%20Excel.png
+2. Loan Dashboard in Excel: https://github.com/Shravani2712/dbs-bank-data-analysis/blob/main/Loan%20Dashboard%20In%20Excel.png
+
+**🔹 SQL (.sql)**
+Optimized aggregation queries
+Credit scoring logic
+Transaction frequency analysis
+Risk categorization queries
+
+**🎯 Business Impact**
+Enabled faster executive decision-making through real-time KPIs
+Identified high-risk loan segments for proactive intervention
+Improved customer segmentation strategy
+Delivered interactive, scalable analytics solutions
+
+**📸 Dashboard Highlights**
+1️⃣ Interactive Streamlit Application
+Real-time filtering
+Enterprise-style KPI cards
+Dynamic financial analytics
+
+2️⃣ Executive BI Dashboards
+High-resolution Power BI financial reports
+Tableau geospatial analysis
+Strategic performance monitoring
+
+**👩‍💻 Author**
 Shravani Sachin Dhuri
-Data Analyst | Python | Tableau | Power BI | SQL | Excel
+Data Analyst
+Python | SQL | Power BI | Tableau | Excel | Streamlit
